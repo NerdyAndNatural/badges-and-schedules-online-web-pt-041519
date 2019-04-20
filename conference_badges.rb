@@ -1,5 +1,5 @@
 # Write your code here.
 
-badge_maker.each do |name|
+badge_maker(name)
   puts "Hello, my name is #{name}"
 end
